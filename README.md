@@ -17,7 +17,7 @@ I used the following components for this project:
 8) Breadboard
 
 # Code
-Here's the link to my code for this project [here](keycard_reminder.ino)
+Here's the link to my code for this project [here](keycard-reminder.ino)
 
 # Demo
 
