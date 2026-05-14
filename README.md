@@ -20,7 +20,7 @@ I used the following components for this project:
 Here's the link to my code for this project [here](keycard-reminder.ino)
 
 # Demo
-Here's the link to my Demo Video!! [Demo Video](keycard%20reminder%20video.mp4)
+Here's the link to my Demo Video!! [Demo Video]([keycard%20reminder%20video.mp4](https://youtube.com/shorts/WjeADedSGhI?feature=share))
 
 # Circuit
 You can find the circuit here [Circuit](keycard%20reminder%20circuit.jpg)
